@@ -129,7 +129,7 @@ cat(sanitize_links(intro_text))
 
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Education: {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -138,14 +138,14 @@ position_data %>% print_section('education')
 
 
 
-Work Experience {data-icon=suitcase}
+Work Experience: {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
 position_data %>% print_section('positions')
 ```
 
-Achievements {data-icon=newspaper}
+Achievements: {data-icon=newspaper}
 --------------------------------------------------------------------------------
 
 
