@@ -49,7 +49,7 @@ Aside
 ================================================================================
 
 
-![logo](teachinglogo.png){width=85%}
+![logo](teachinglogo.png){width=50%}
 
 Contact {#contact}
 --------------------------------------------------------------------------------
@@ -69,8 +69,8 @@ Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "Classroom Management",5,
-  "Earth & Space Science",5,
+  "Classroom Management",4.5,
+  "Earth & Space Science",4.5,
   "English Literature", 4.5,
   "Math",               4,
   "GIS (ArcMap)",       4,
@@ -103,9 +103,9 @@ References available upon request.
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
+Made w/ [**pagedown**]. 
 
-Source code: [github.com/nstrayer/cv](https://github.com/nstrayer/cv).
+Source code: [github.com/nstrayer/cv].
 
 Last updated on `r Sys.Date()`.
 
